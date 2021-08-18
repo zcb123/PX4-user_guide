@@ -8,7 +8,7 @@ module.exports = {
   patterns : ['README.md',
       'en/**/*.md',
       'zh/**/*.md',
-      //'ko/**/*.md',
+      'ko/**/*.md',
       // 'de/**/*.md',
       // 'ja/**/*.md',
       // 'ru/**/*.md',
